@@ -14,7 +14,7 @@
   <a href="https://youtube.com/@edkaydev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://instagram.com/edkaydev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:edwardbrin1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://edwardkay.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
+  <a href="https://edkaydev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
 </div>
 
 <div align="center">
@@ -53,7 +53,7 @@ const edward = {
     ig: "@edkaydev",
     linkedin: "/in/edkaydev"
   },
-  portfolio: "https://edwardkay.vercel.app",
+  portfolio: "https://edkaydev.vercel.app",
   funFact: "I believe simple solutions solve complex problems"
 };
 ```
@@ -160,10 +160,10 @@ const edward = {
         <br />@edkaydev
       </td>
       <td>
-        <a href="https://edwardkay.vercel.app">
+        <a href="https://edkaydev.vercel.app">
           <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" />
         </a>
-        <br />edwardkay.vercel.app
+        <br />edkaydev.vercel.app
       </td>
     </tr>
   </table>
