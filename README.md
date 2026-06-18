@@ -9,8 +9,10 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/edwardkayiira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/edwadkay1_"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/edkaydev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/edkaydev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://youtube.com/@edkaydev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://instagram.com/edkaydev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:edwardbrin1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://edwardkay.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
 </div>
@@ -45,6 +47,12 @@ const edward = {
   certs: ["AWS (in progress)", "HP LIFE Cybersecurity", "ICDL"],
   focus: ["Cloud Architecture", "Web Development", "Mobile Apps"],
   askMeAbout: ["React", "TypeScript", "AWS", "Flutter", "Node.js"],
+  socials: {
+    x: "@edkaydev",
+    yt: "@edkaydev",
+    ig: "@edkaydev",
+    linkedin: "/in/edkaydev"
+  },
   portfolio: "https://edwardkay.vercel.app",
   funFact: "I believe simple solutions solve complex problems"
 };
@@ -140,7 +148,7 @@ const edward = {
         <br />edwardbrin1@gmail.com
       </td>
       <td>
-        <a href="https://www.linkedin.com/in/edwardkayiira">
+        <a href="https://linkedin.com/in/edkaydev">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
         <br />2.6K+ followers
