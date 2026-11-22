@@ -1,202 +1,195 @@
- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0F19,55:172554,100:84CC16&text=Kayiira%20Edward&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%2F%20CLOUD%20%26%20INFRASTRUCTURE&descSize=14&descAlignY=59&descColor=D1D5DB" width="100%" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Animated space background" />
 </div>
 
 <div align="center">
 
-  <a href="https://edkaydev.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-84CC16?style=for-the-badge&logo=vercel&logoColor=111827" /></a>
-  <a href="https://www.linkedin.com/in/edkaydev/"><img src="https://img.shields.io/badge/LINKEDIN-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/edkaydev"><img src="https://img.shields.io/badge/FOLLOW%20ON%20X-111827?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:edwardbrin1@gmail.com"><img src="https://img.shields.io/badge/CONTACT-374151?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="140" />
+
+  <h1>Hey, I'm Kayiira Edward! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving hand" width="36" /></h1>
+  <p><b>Software & Cloud Engineer</b> · <b>Builder</b> · <b>Community Nerd</b></p>
+
+  <p>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="42" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing star" width="42" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="42" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="42" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="42" />
+  </p>
+
+  <a href="https://edkaydev.vercel.app">
+    <img src="https://img.shields.io/badge/PORTFOLIO-F3EEE1?style=for-the-badge&logo=vercel&logoColor=0A0A0A&labelColor=FF5FA8" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/edkaydev/">
+    <img src="https://img.shields.io/badge/LINKEDIN-F3EEE1?style=for-the-badge&logo=linkedin&logoColor=0A0A0A&labelColor=C7DF3A" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/edkaydev">
+    <img src="https://img.shields.io/badge/X-F3EEE1?style=for-the-badge&logo=x&logoColor=0A0A0A&labelColor=B48CF0" alt="X" />
+  </a>
+  <a href="mailto:edwardbrin1@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-F3EEE1?style=for-the-badge&logo=gmail&logoColor=0A0A0A&labelColor=0A0A0A" alt="Email" />
+  </a>
 
   <br /><br />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=84CC16&center=true&vCenter=true&width=650&lines=I+build+software+that+solves+real+problems.;I+explore+cloud+and+infrastructure.;I+learn+by+building+and+shipping." alt="Developer introduction" />
-
-</div>
-
----
-
-## `01` / About
-
-I'm **Kayiira Edward**, a Computer Science student at Uganda Martyrs University and a software engineer based in Uganda 🇺🇬.
-
-I build practical web applications, work with APIs and databases, and explore the infrastructure needed to deploy and maintain reliable software.
-
-I'm interested in the intersection of **software engineering, cloud infrastructure, DevOps, and AI-assisted development**. I learn best by building real projects, solving problems, and documenting what I discover.
-
-Outside the code, I lead the **UMU Tech Community**, helping students learn, collaborate, and grow through technology.
-
-```js
-const edkaydev = {
-  role: "Software Engineer",
-  education: "BSc Computer Science",
-  university: "Uganda Martyrs University",
-  location: "Uganda 🇺🇬",
-  interests: [
-    "Software Engineering",
-    "Cloud & Infrastructure",
-    "DevOps",
-    "AI-Assisted Development"
-  ],
-  community: "UMU Tech Community",
-  philosophy: "Build useful things. Keep learning."
-};
-```
-
-## `02` / Engineering Stack
-
-<div align="center">
-
-  <h3>Software Development</h3>
-
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,react,nextjs,nodejs,express,tailwind&theme=dark" alt="Software development technologies" />
-
-  <br />
-
-  <h3>Data & Backend Services</h3>
-
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase&theme=dark" alt="Database and backend technologies" />
-
-  <br />
-
-  <h3>Cloud & Infrastructure</h3>
-
-  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,aws,azure,git,github,vercel&theme=dark" alt="Cloud and infrastructure technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=FF5FA8&center=true&vCenter=true&width=820&lines=I+build+cool+stuff+for+the+web+%F0%9F%9A%80;I+love+clean+UI%2C+real+problems%2C+and+shipping.;Cloud+%2B+DevOps+%2B+AI-assisted+building.;Build.+Break.+Learn.+Repeat." alt="Typing introduction" />
 
 </div>
 
 <br />
 
-| Area | What I work on |
-|:--|:--|
-| Software | React, Next.js, TypeScript, Node.js |
-| Backend | Express, REST APIs, PHP |
-| Data | MySQL, Firebase, Supabase |
-| Infrastructure | Linux, Docker, Nginx, networking |
-| Cloud | AWS, Microsoft Azure |
-| Workflow | Git, GitHub, Vercel |
-| AI | AI-assisted coding, debugging, development workflows |
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated divider" />
+</div>
 
-## `03` / Selected Work
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Cool face" width="34" /> `01` / About Me
+
+```ts
+const edkaydev = {
+  name: "Kayiira Edward",
+  role: "Software & Cloud Engineer",
+  location: "Uganda 🇺🇬",
+  education: "BSc Computer Science — Uganda Martyrs University",
+  focus: [
+    "Software Engineering",
+    "Cloud & Infrastructure",
+    "DevOps",
+    "AI-Assisted Development",
+  ],
+  community: "UMU Tech Community",
+  philosophy: "Build useful things. Keep learning.",
+};
+```
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated divider" />
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="34" /> `02` / My Toolbox
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=ts,js,python,php,react,nextjs,nodejs,express,tailwind&theme=dark&perline=9" alt="Software stack" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase,docker,linux,nginx,aws,azure,git&theme=dark&perline=9" alt="Infrastructure stack" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=github,vercel,vscode,figma&theme=dark&perline=9" alt="Workflow stack" />
+
+</div>
+
+<br />
+
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="18" /> Area | Focus |
+|:--|:--|
+| **Software** | React, Next.js, TypeScript, Node.js |
+| **Backend** | Express, REST APIs, PHP, Firebase |
+| **Data** | MySQL, Firestore, Supabase |
+| **Infrastructure** | Linux, Docker, Nginx, networking |
+| **Cloud** | AWS, Microsoft Azure, Vercel |
+| **Workflow** | Git, GitHub, testing, deployment |
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated divider" />
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="34" /> `03` / Cool Stuff I Built
 
 <table>
   <tr>
     <td width="50%" valign="top">
-
-### ◈ UMU Attendance System
-
-A full-stack attendance management platform supporting workflows for students, lecturers, faculty administrators, and system administrators.
-
-**Engineering focus**
-
-- Role-based application design
-- APIs and database management
-- Testing and deployment workflows
-
-**Stack:** React · Express · Prisma · MySQL · Docker
-
-</td>
+      <h3>◈ edkaydev Portfolio</h3>
+      <p>A CMS-driven personal portfolio with a public site and private admin dashboard. Site copy, gallery, pinned content, and SEO are managed from Firestore without redeploying.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=next.js&logoColor=F3EEE1" />
+        <img src="https://img.shields.io/badge/TypeScript-FF5FA8?style=flat-square&logo=typescript&logoColor=0A0A0A" />
+        <img src="https://img.shields.io/badge/Firebase-C7DF3A?style=flat-square&logo=firebase&logoColor=0A0A0A" />
+        <img src="https://img.shields.io/badge/Cloudinary-B48CF0?style=flat-square&logo=cloudinary&logoColor=0A0A0A" />
+      </p>
+    </td>
     <td width="50%" valign="top">
-
-### ◈ Manira
-
-A digital marketplace project exploring simpler ways for buyers and sellers to connect and manage online orders.
-
-**Engineering focus**
-
-- Marketplace workflows
-- Responsive user experience
-- Data integration
-
-**Stack:** Next.js · TypeScript · Firebase
-
-</td>
+      <h3>◈ UMU Attendance System</h3>
+      <p>A full-stack attendance platform for students, lecturers, faculty admins, and system admins, built around role-based workflows and reliable data management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=F3EEE1" />
+        <img src="https://img.shields.io/badge/Express-FF5FA8?style=flat-square&logo=express&logoColor=0A0A0A" />
+        <img src="https://img.shields.io/badge/MySQL-C7DF3A?style=flat-square&logo=mysql&logoColor=0A0A0A" />
+        <img src="https://img.shields.io/badge/Docker-B48CF0?style=flat-square&logo=docker&logoColor=0A0A0A" />
+      </p>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-
-### ◈ UMU Website Redesign
-
-Website improvements focused on navigation, page layouts, responsive design, and content presentation for Uganda Martyrs University.
-
-**Engineering focus**
-
-- WordPress implementation
-- Website usability
-- Content and interface improvements
-
-</td>
+      <h3>◈ Manira</h3>
+      <p>A digital marketplace project exploring simpler buyer-seller connections, online ordering flows, and responsive product experiences.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=next.js&logoColor=F3EEE1" />
+        <img src="https://img.shields.io/badge/TypeScript-FF5FA8?style=flat-square&logo=typescript&logoColor=0A0A0A" />
+        <img src="https://img.shields.io/badge/Firebase-C7DF3A?style=flat-square&logo=firebase&logoColor=0A0A0A" />
+      </p>
+    </td>
     <td width="50%" valign="top">
-
-### ◈ Moodle WhatsApp Integration
-
-A plugin project exploring automated WhatsApp notifications from Moodle using the WhatsApp Cloud API.
-
-**Engineering focus**
-
-- API integration
-- Notification workflows
-- Application configuration
-
-**Stack:** Node.js · Moodle · WhatsApp Cloud API
-
-</td>
+      <h3>◈ Moodle WhatsApp Integration</h3>
+      <p>A plugin project exploring automated WhatsApp notifications from Moodle using the WhatsApp Cloud API and practical notification workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=node.js&logoColor=F3EEE1" />
+        <img src="https://img.shields.io/badge/Moodle-FF5FA8?style=flat-square&logo=moodle&logoColor=0A0A0A" />
+        <img src="https://img.shields.io/badge/WhatsApp%20API-C7DF3A?style=flat-square&logo=whatsapp&logoColor=0A0A0A" />
+      </p>
+    </td>
   </tr>
 </table>
 
 <div align="center">
+  <a href="https://edkaydev.vercel.app/projects">
+    <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-FF5FA8?style=for-the-badge&logo=vercel&logoColor=0A0A0A" alt="View all projects" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated divider" />
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="34" /> `04` / GitHub Vibes
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=edkaydev&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FF5FA8&icon_color=C7DF3A&text_color=F3EEE1&ring_color=B48CF0&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edkaydev&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FF5FA8&text_color=F3EEE1" alt="Top languages" />
+  <br /><br />
+  <img width="90%" src="https://streak-stats.demolab.com?user=edkaydev&hide_border=true&background=0A0A0A&ring=FF5FA8&fire=C7DF3A&currStreakLabel=B48CF0&sideLabels=F3EEE1&currStreakNum=F3EEE1&sideNums=F3EEE1&dates=E1D7C0" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated divider" />
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="34" /> `05` / Let's Build Something Fun
+
+<div align="center">
 
   <a href="https://edkaydev.vercel.app">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECTS-84CC16?style=for-the-badge&logo=vercel&logoColor=111827" alt="View projects" />
+    <img src="https://img.shields.io/badge/Explore%20Portfolio-FF5FA8?style=for-the-badge&logo=vercel&logoColor=0A0A0A" alt="Explore portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/edkaydev/">
+    <img src="https://img.shields.io/badge/Connect-C7DF3A?style=for-the-badge&logo=linkedin&logoColor=0A0A0A" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:edwardbrin1@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20Email-B48CF0?style=for-the-badge&logo=gmail&logoColor=0A0A0A" alt="Send email" />
   </a>
 
-</div>
+  <br /><br />
 
-## `04` / GitHub Activity
-
-<div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=edkaydev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=84CC16&icon_color=84CC16&text_color=E5E7EB&rank_icon=github" alt="GitHub statistics" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edkaydev&layout=compact&hide_border=true&bg_color=0D1117&title_color=84CC16&text_color=E5E7EB" alt="Most used programming languages" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="55" alt="Cool" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="55" alt="Rocket" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="55" alt="Sparkles" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="55" alt="Fire" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="55" alt="Star" />
 
   <br /><br />
 
-  <img width="90%" src="https://streak-stats.demolab.com?user=edkaydev&hide_border=true&background=0D1117&ring=84CC16&fire=84CC16&currStreakLabel=84CC16&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub contribution streak" />
-
-</div>
-
-## `05` / Beyond Engineering
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/COMMUNITY-UMU%20Tech%20Community-84CC16?style=flat-square" />
-  <img src="https://img.shields.io/badge/AMBASSADOR-ICDL%20Africa-1D4ED8?style=flat-square" />
-  <img src="https://img.shields.io/badge/LEARNING-HP%20LIFE%20Cybersecurity-374151?style=flat-square" />
-
-</div>
-
-I believe technology becomes more valuable when people can learn from it, contribute to it, and use it to solve meaningful problems.
-
-Through my work with the UMU Tech Community, I help create spaces for students to explore technology, collaborate, and turn ideas into projects.
-
-## `06` / Let's Connect
-
-Have a project, an engineering opportunity, or an idea worth exploring? Let's talk.
-
-<div align="center">
-
-  <a href="https://edkaydev.vercel.app"><img src="https://img.shields.io/badge/Explore%20My%20Work-84CC16?style=for-the-badge&logo=vercel&logoColor=111827" /></a>
-  <a href="https://www.linkedin.com/in/edkaydev/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:edwardbrin1@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-374151?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="720" alt="Orbiting particles animation" />
 
   <br /><br />
 
-  <sub>BUILD WITH PURPOSE · LEARN BY DOING · SHARE WHAT YOU LEARN</sub>
-
-  <br /><br />
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:84CC16,100:0B0F19" width="100%" />
+  <sub><code>BUILD COOL THINGS</code> · <code>HAVE FUN</code> · <code>SHIP WITH CARE</code></sub>
 
 </div>
