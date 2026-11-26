@@ -92,46 +92,62 @@ const edkaydev = {
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="34" /> `03` / Cool Stuff I Built
 
+<sub>Selected public work. Some client, university and internal projects are private.</sub>
+
+<br />
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>◈ edkaydev Portfolio</h3>
-      <p>A CMS-driven personal portfolio with a public site and private admin dashboard. Site copy, gallery, pinned content, and SEO are managed from Firestore without redeploying.</p>
+      <h3>◈ <a href="https://github.com/edkaydev/drainwatch-ai">DrainWatch</a></h3>
+      <p>Report blocked drains and flooding in Kampala and Nkozi, then turn those reports into hotspot intelligence for response teams.</p>
+      <p>
+        <a href="https://github.com/edkaydev/drainwatch-ai"><img src="https://img.shields.io/badge/Code-0A0A0A?style=flat-square&logo=github&logoColor=F3EEE1" alt="DrainWatch source" /></a>
+        <a href="https://drainwatchkla.vercel.app"><img src="https://img.shields.io/badge/Live%20demo-FF5FA8?style=flat-square&logo=vercel&logoColor=0A0A0A" alt="DrainWatch demo" /></a>
+      </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=next.js&logoColor=F3EEE1" />
         <img src="https://img.shields.io/badge/TypeScript-FF5FA8?style=flat-square&logo=typescript&logoColor=0A0A0A" />
         <img src="https://img.shields.io/badge/Firebase-C7DF3A?style=flat-square&logo=firebase&logoColor=0A0A0A" />
-        <img src="https://img.shields.io/badge/Cloudinary-B48CF0?style=flat-square&logo=cloudinary&logoColor=0A0A0A" />
+        <img src="https://img.shields.io/badge/Tailwind-B48CF0?style=flat-square&logo=tailwindcss&logoColor=0A0A0A" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>◈ UMU Attendance System</h3>
-      <p>A full-stack attendance platform for students, lecturers, faculty admins, and system admins, built around role-based workflows and reliable data management.</p>
+      <h3>◈ <a href="https://github.com/edkaydev/voicein">VoiceIn</a></h3>
+      <p>A glass mic dock that lets you dictate into any text field in the browser, with automatic insert and inline controls.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=F3EEE1" />
-        <img src="https://img.shields.io/badge/Express-FF5FA8?style=flat-square&logo=express&logoColor=0A0A0A" />
-        <img src="https://img.shields.io/badge/MySQL-C7DF3A?style=flat-square&logo=mysql&logoColor=0A0A0A" />
-        <img src="https://img.shields.io/badge/Docker-B48CF0?style=flat-square&logo=docker&logoColor=0A0A0A" />
+        <a href="https://github.com/edkaydev/voicein"><img src="https://img.shields.io/badge/Code-0A0A0A?style=flat-square&logo=github&logoColor=F3EEE1" alt="VoiceIn source" /></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=F3EEE1" />
+        <img src="https://img.shields.io/badge/Chrome%20MV3-FF5FA8?style=flat-square&logo=googlechrome&logoColor=0A0A0A" />
+        <img src="https://img.shields.io/badge/Web%20Speech-C7DF3A?style=flat-square" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>◈ Manira</h3>
-      <p>A digital marketplace project exploring simpler buyer-seller connections, online ordering flows, and responsive product experiences.</p>
+      <h3>◈ <a href="https://github.com/edkaydev/qa-with-gemini">QAAI</a></h3>
+      <p>Interactive course evaluations for students and reviewers, with an AI-guided conversation mode built on the Gemini API.</p>
+      <p>
+        <a href="https://github.com/edkaydev/qa-with-gemini"><img src="https://img.shields.io/badge/Code-0A0A0A?style=flat-square&logo=github&logoColor=F3EEE1" alt="QAAI source" /></a>
+      </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=next.js&logoColor=F3EEE1" />
         <img src="https://img.shields.io/badge/TypeScript-FF5FA8?style=flat-square&logo=typescript&logoColor=0A0A0A" />
-        <img src="https://img.shields.io/badge/Firebase-C7DF3A?style=flat-square&logo=firebase&logoColor=0A0A0A" />
+        <img src="https://img.shields.io/badge/Tailwind-C7DF3A?style=flat-square&logo=tailwindcss&logoColor=0A0A0A" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>◈ Moodle WhatsApp Integration</h3>
-      <p>A plugin project exploring automated WhatsApp notifications from Moodle using the WhatsApp Cloud API and practical notification workflows.</p>
+      <h3>◈ <a href="https://github.com/edkaydev/feedback-intelligence">Feedback Intelligence</a></h3>
+      <p>A multilingual sentiment model for Ugandan bank and kiosk feedback, trained with TF-IDF features and logistic regression.</p>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=node.js&logoColor=F3EEE1" />
-        <img src="https://img.shields.io/badge/Moodle-FF5FA8?style=flat-square&logo=moodle&logoColor=0A0A0A" />
-        <img src="https://img.shields.io/badge/WhatsApp%20API-C7DF3A?style=flat-square&logo=whatsapp&logoColor=0A0A0A" />
+        <a href="https://github.com/edkaydev/feedback-intelligence"><img src="https://img.shields.io/badge/Code-0A0A0A?style=flat-square&logo=github&logoColor=F3EEE1" alt="Feedback Intelligence source" /></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=F3EEE1" />
+        <img src="https://img.shields.io/badge/scikit--learn-FF5FA8?style=flat-square&logo=scikitlearn&logoColor=0A0A0A" />
+        <img src="https://img.shields.io/badge/pandas-C7DF3A?style=flat-square&logo=pandas&logoColor=0A0A0A" />
       </p>
     </td>
   </tr>
